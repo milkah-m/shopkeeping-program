@@ -8,6 +8,7 @@ let cost  = 70
 
 let itemPrice=100
 let discount=itemPrice*0.05
+console.log("Discount is " + discount)
 let sellingPrice=itemPrice-discount
 console.log("Selling Price is " + sellingPrice)
 
